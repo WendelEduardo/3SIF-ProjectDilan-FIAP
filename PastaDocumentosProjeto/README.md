@@ -1,0 +1,1 @@
+# Guarde nesta pasta os documentos de especificação do projeto (Projeto, modelos de dados, UML, etc.)
